@@ -1,10 +1,15 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [TexasBullet26]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [January 04, Thursday, 2017].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D1
+  - One Object-Oriented JavaScript freeCodeCamp Solution (Pushed to GitHub).
+    - [fcc-progress](https://github.com/TexasBullet26/fcc-progress/tree/master/src/00-front-end-development/05-object-oriented-and-functional-programming/00-declare-javascript-objects-and-variables)
+  - Made a repository called `speedstudy-progress` which has everything that I plan on learning this year and will have the notes for everything I finish. This repository is directly related to `p1xt/speedstudy` and `p1xt/p1xt-progress`.
+    - [My speedstudy-progress repository](https://github.com/TexasBullet26/speedstudy-progress)
+  - I read this article on [The State of JavaScript 2017](https://stateofjs.com/2017/introduction/) which I recommend reading.
+  - I also decided to download and set-up Visual Studio Code to see if I like it better than Atom. I'm not quite sure yet..
 
 ### R1D2
