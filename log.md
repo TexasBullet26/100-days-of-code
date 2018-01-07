@@ -15,7 +15,7 @@ This `speedstudy-progress` is going to be a challenge, but I love to learn so it
   - [My speedstudy-progress repository](https://github.com/TexasBullet26/speedstudy-progress)
   - I also have a repository for my freeCodeCamp solutions, here is the one I did today [Declare JavaScript Objects as Variables](https://github.com/TexasBullet26/fcc-progress/tree/master/src/00-front-end-development/05-object-oriented-and-functional-programming/00-declare-javascript-objects-and-variables)
 
-## Day 2: January 06, 2018 (Saturday)
+### Day 2: January 06, 2018 (Saturday)
 
 **Today's Progress**:
   - Completed 3 sections of [Rithm School Python Fundamentals Part 1.](https://www.rithmschool.com/courses/python-fundamentals-part-1)
@@ -26,3 +26,34 @@ This `speedstudy-progress` is going to be a challenge, but I love to learn so it
 
 **Links to work**
   - [LearnPython](https://github.com/TexasBullet26/LearnPython)
+
+### Day 3: January 07, 2017 (Sunday)
+
+**Today's Progress**:
+
+*Next.js Tutorial (learnnext)*
+
+[hello-next repository](https://github.com/TexasBullet26/hello-next)
+  - Started tutorial for Next.js (Step 1.)
+    - Created directory `hello-next`
+    - `git init` to initialize repository
+    - `npm init -y` to create a `package.json`
+    - Instead of `npm install --save react react-dom next` I ran `yarn add react react-dom next`
+      - This created a `yarn.lock` file that I commited to the repository.
+    - Created a `.gitignore` and `README.md` for the project.
+    - Created a file `pages/index.js` and added in scripts in `package.json`: `"dev": "next"`.
+      - This makes it possible to run `yarn dev` which adds HMR to the project at `localhost://3000`.
+  - End Step 1
+
+*CS50 Week 0*
+
+[speedrun-progress repository](https://github.com/TexasBullet26/speedrun-progress)
+  - Watch CS50 Week 0 (01:01 hours)
+  - Take notes for the lecture
+  - Added into `progress` folder:
+    - FreeCodeCamp
+      - goal is to include my solutions and progress to freecodecamp's curriculum into this folder.
+    - OSSU (Open Source University)
+      - goal is to include my notes, assignments, projects, progress, etc. anything including every course I take for OSSU.
+    - p1xt-guides
+      - goal is to include my notes, solutions, assignments, projects, etc. anything including the p1xt-guides I take.
