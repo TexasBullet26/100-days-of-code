@@ -13,3 +13,8 @@ The log of my #100DaysOfCode challenge. Started on [January 04, Thursday, 2017].
   - I also decided to download and set-up Visual Studio Code to see if I like it better than Atom. I'm not quite sure yet..
 
 ### R1D2
+  - Completed 3 sections of [Rithm School Python Fundamentals Part 1.](https://www.rithmschool.com/courses/python-fundamentals-part-1)
+    - Python History and Installation
+    - Variables and Data Types
+    - Strings
+  - Pushed this to a newly created repository [LearnPython](https://github.com/TexasBullet26/LearnPython)

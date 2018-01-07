@@ -14,3 +14,15 @@ This `speedstudy-progress` is going to be a challenge, but I love to learn so it
 **Link(s) to work**:
   - [My speedstudy-progress repository](https://github.com/TexasBullet26/speedstudy-progress)
   - I also have a repository for my freeCodeCamp solutions, here is the one I did today [Declare JavaScript Objects as Variables](https://github.com/TexasBullet26/fcc-progress/tree/master/src/00-front-end-development/05-object-oriented-and-functional-programming/00-declare-javascript-objects-and-variables)
+
+## Day 2: January 06, 2018 (Saturday)
+
+**Today's Progress**:
+  - Completed 3 sections of [Rithm School Python Fundamentals Part 1.](https://www.rithmschool.com/courses/python-fundamentals-part-1)
+    - Python History and Installation
+    - Variables and Data Types
+    - Strings
+  - Pushed this to a repository [LearnPython](https://github.com/TexasBullet26/LearnPython)
+
+**Links to work**
+  - [LearnPython](https://github.com/TexasBullet26/LearnPython)
