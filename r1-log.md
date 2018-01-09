@@ -55,5 +55,6 @@ The log of my #100DaysOfCode challenge. Started on [January 04, Thursday, 2017].
 
 * Continued with the learnnextjs tutorial. Completed Step 2. Navigate Between Pages, Step 3. Using Shared Components, and Step 4. Create Dynamic Pages.
 * [NextjsTutorial repo](https://github.com/TexasBullet26/NextjsTutorial)
+* Finished one basic algorithm scripting challenge in FreeCodeCamp [Find the Longest Word in a String](https://github.com/TexasBullet26/fcc-progress/tree/master/src/00-front-end-development/06-basic-algorithm-scripting/04-find-the-longest-word-in-a-string)
 
 ![](https://www.evernote.com/shard/s575/sh/74199657-b14f-415c-acb7-f9f758f5435c/b41dc540b5d0bafb6184055a97b58cb4)
